@@ -19,13 +19,13 @@ The project demonstrates strong skills in:
 - Region_Dim
 
 ## Key Features Implemented
-### Data Modeling
-### DAX Measures
-### Time Intelligence
-### Dashboards Created
-#### Page 1: Executive Summary
-#### Page 2: Sales & Customer Analysis
-#### Page 3: Overall Information
+* Data Modeling
+* DAX Measures
+* Time Intelligence
+* Dashboards Created
+* Page 1: Executive Summary
+* Page 2: Sales & Customer Analysis
+* Page 3: Overall Information
 
 ## Notes
 
@@ -35,4 +35,5 @@ This project is designed to demonstrate strong understanding of:
 * Context transition
 * Time intelligence
 * Analytical modeling best practices
+
 
