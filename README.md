@@ -36,4 +36,3 @@ This project is designed to demonstrate strong understanding of:
 * Time intelligence
 * Analytical modeling best practices
 
-
