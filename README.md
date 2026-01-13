@@ -1,4 +1,4 @@
-# Power BI Sales & Returns Analysis Dashboard
+# Power BI Sales Analysis Dashboard
 
 ## Project Overview
 This project is an end-to-end Power BI dashboard built using a business-style dataset to analyze Sales performance, Customer behavior, Product trends, Regional insights.
